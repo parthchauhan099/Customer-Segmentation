@@ -6,6 +6,7 @@ Customer Segmentation
 Customer segmentation is a vital strategy for understanding clients better and addressing their diverse needs more effectively. One of the most effective methods for customer segmentation is RFM analysis. This technique allows businesses to design personalized offers to boost sales and improve customer retention.
 
 RFM Analysis Overview:
+
     Recency: Number of days since the customer last purchase or order.
     Frequency: Counts the total number of purchases made by the customer
     Monetary Value: Reflects the total amount spent by the customer per order.
